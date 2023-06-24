@@ -7,6 +7,6 @@ Hello git!
 Hello git!
 Hello git!
 Hello git!
-Hello git! master
+Hello git!
 Hello git!
 edit by Github
